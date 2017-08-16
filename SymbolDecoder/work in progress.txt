@@ -1,0 +1,5 @@
+﻿Seems that only variables display const storage incorrectly in undname
+	Function pointers work
+	Template parameters work
+
+Need to test pointers-to-pointers to see if it is a top-level variable problem with undname

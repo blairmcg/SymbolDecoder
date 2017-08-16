@@ -1,0 +1,8 @@
+packages/
+.vs/
+*.bsc
+Debug/
+Release/
+**/obj/
+**/bin/
+*.vcxproj.filters
